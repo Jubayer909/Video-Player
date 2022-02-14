@@ -25,7 +25,7 @@ pyromod
 requests
 speedtest-cli
 uvloop
-git+https://github.com/ITZ-ZAID/yt-dowload@master
+git+https://github.com/Jubayer909/yt-download@master
 hachoir
 lyricsgenius
 httpx>=0.14.2
