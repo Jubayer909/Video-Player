@@ -2,7 +2,7 @@
     "name": "Video-Player",
     "description": "Music allow you to Video/Audio stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/ITZ-ZAID/Video-Player",
+    "repository": "https://github.com/Jubayer909/Video-Player",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
