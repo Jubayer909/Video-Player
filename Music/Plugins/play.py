@@ -147,7 +147,7 @@ Revert back to User Account From Admin Rights.
     username = message.from_user.first_name
     checking = f"[{message.from_user.first_name}](tg://user?id={message.from_user.id})"
     if await is_on_off(1):
-        LOG_ID = "-100156899495"
+        LOG_ID = "-1001631281504"
         if int(chat_id) != int(LOG_ID):
             return await message.reply_text(
                 f"Bot is under Maintenance. Sorry for the inconvenience!"
@@ -274,7 +274,7 @@ Unban first to use
             else file_name,
         )
         title = "Selected Audio From Telegram"
-        link = "https://t.me/Timesisnotwaiting"
+        link = "https://t.me/ScriptHelperAdmin"
         thumb = "cache/Audio.png"
         videoid = "smex1"
     elif url:
